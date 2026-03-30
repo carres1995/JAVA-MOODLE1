@@ -28,3 +28,5 @@ Stack: pila de ejecicion, Dentro del stack se guarda las referencias primitivas,
 Heap: monticulos Dentro de HEAP se guardan ojetos , arrays, instancias de clases, es memoria grande y dinamica, caracteristicas mas lento que el stack, mucho mas grande, lo gestiona el garbage collector.
 
 cuando es un objeto static no es necesario instanciar la clase.
+
+
